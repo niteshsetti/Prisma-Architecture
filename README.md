@@ -23,4 +23,6 @@ npm install koa-json
 
 To run npm run dev
 
-Append tsconfig.json file .
+Append tsconfig.json file 
+
+npm install ioredis 
